@@ -48,6 +48,10 @@ nav {
   display: flex;
   flex-direction: row;
 }
+#logo_ust{
+  max-width: 100%;
+}
+
 #logoContainer{
   width: 100%;
   margin-left: -30px;
